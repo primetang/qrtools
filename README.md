@@ -7,7 +7,7 @@ qrtools is a suite of tools for handling [QR codes](http://www.qrcode.com/en/ind
 
 #####Please feel free to contact me [tanggefu@gmail.com] if you have any questions.
 
-###2.Dependencies
+###2. Dependencies
 
 This module requires the ZBar Bar Code Reader, which may be obtained from [here](http://zbar.sourceforge.net/).
 
