@@ -1,0 +1,8 @@
+setup.py
+qrtools.egg-info/PKG-INFO
+qrtools.egg-info/SOURCES.txt
+qrtools.egg-info/dependency_links.txt
+qrtools.egg-info/top_level.txt
+src/__init__.py
+src/qrtools.py
+src/qtqr.py

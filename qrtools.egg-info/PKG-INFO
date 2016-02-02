@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: qrtools
+Version: 0.0.1
+Summary: qrtools is a suite of tools for handling QR codes.
+Home-page: https://github.com/primetang/qrtools
+Author: David Green & Gefu Tang
+Author-email: tanggefu@gmail.com
+License: GNU
+Description: UNKNOWN
+Keywords: QR code
+Platform: UNKNOWN
