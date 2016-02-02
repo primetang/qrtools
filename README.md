@@ -42,5 +42,5 @@ qr.decode("bookmark.png")
 print qr.data
 ```
 
-And the follow is `bookmark.png`:
+And here is the `bookmark.png`:
 ![](https://github.com/primetang/qrtools/blob/master/samples/bookmark.png)
