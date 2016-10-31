@@ -161,7 +161,10 @@ class QR(object):
             # obtain image data
             pil = Image.open(self.filename).convert('L')
             width, height = pil.size
-            raw = pil.tobytes()
+            try:
+                raw = pil.tobytes()
+            except AttributeError:
+                raw = pil.tostring()
             # wrap image data
             image = zbar.Image(width, height, 'Y800', raw)
             # scan the image for barcodes
