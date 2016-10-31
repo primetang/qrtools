@@ -27,9 +27,9 @@ import shutil
 import hashlib
 import zbar
 try:
-    import Image
-except:
     from PIL import Image
+except:
+    import Image
 import re
 from codecs import BOM_UTF8
 
